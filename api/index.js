@@ -1,7 +1,7 @@
 // api/index.js
 
-const PORTAL_URL = "http://mag.jee-ott.xyz/server/load.php"; 
-const MAC_ADDRESS = "00:1A:79:6F:0F:1A";
+const PORTAL_URL = "http://main.light-ott.net"; 
+const MAC_ADDRESS = "00:1A:79:7A:DB:FD";
 
 async function getTokenAndCookie() {
   const headers = {
